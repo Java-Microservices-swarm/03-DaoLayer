@@ -21,16 +21,16 @@ ORM based storage and DAO layer in Hero service.
 - @Inject
 
 ### JPA
-@Entity
-@Table
-@NamedQueries
-@NamedQuery
-@Id
-@GeneratedValue
-GenerationType
-Persistence
-EntityManager
-CriteriaBuilder
-CriteriaQuery
-Root
-Predicate
+- @Entity
+- @Table
+- @NamedQueries
+- @NamedQuery
+- @Id
+- @GeneratedValue
+- GenerationType
+- Persistence
+- EntityManager
+- CriteriaBuilder
+- CriteriaQuery
+- Root
+- Predicate
